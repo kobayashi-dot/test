@@ -123,7 +123,7 @@ for (int number = 1; number <= 10; number++) {
 }
 ```
 
-最初は、sumが0で初期化される。その後からfor文が始まる。繰り返しの1回目だけ初期化が行われ、式の評価、文の実行、更新と続く。最後は繰り返しが11回目のとき、式のnumberが10を超えるので評価がfalseになり、繰り返しは終了する。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 | 繰り返し | ステップ |    コード     |   実行結果   |
 | :------: | :------: | :-----------: | :----------: |
